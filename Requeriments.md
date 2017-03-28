@@ -1,6 +1,6 @@
 # Requerimientos
 
-## 1. Caractersticas Generales del Proyecto
+## 1. Características Generales del Proyecto
 
 + Máximo 8 Productos.
 + Máximo 3 Usuarios con saldo y clave serializada en formato MD5.
